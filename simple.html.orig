@@ -1,17 +1,16 @@
-<head>
 <<<<<<< HEAD
-a ver respectful mofo 
-<title>Simple titgle</title>
+<head>a very respectful mofo putanginampooas kdaslkd asdjsalkd
 =======
-website
+<head>a very respectful mofo 
+added before rebase
+added again adsadasd
+>>>>>>> adding some touble to simple.html
 <title>realwork</title>
->>>>>>> realwork
 <link ref="stylesheet" href="css/bootstrap.min.css">
 <style>
 	body{
 		padding-top: 50px;
 		padding-bottom: 20px;
-
 </style>
 </link ref="stylesheet" href="css/bootstrap.min.css">
 </head>
